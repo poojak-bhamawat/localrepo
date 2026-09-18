@@ -50,14 +50,14 @@ Open Bugs
 These are existing problems in the project that contributors can help fix.
 
 ID	Issue	Difficulty	Area
-B-01	Improve frontend error handling and user feedback	Beginner	JavaScript / UI
-B-02	Improve seat-selection UI and visual states	Beginner	CSS / UI
-B-03	Improve authentication form validation	Beginner	JavaScript / Auth
-B-04	Improve responsive design on smaller screens	Beginner	CSS / Responsive
-B-05	Improve real-time seat synchronization under heavy traffic	Intermediate	Socket.IO / Logic
-B-06	Improve booking transaction and error handling on rollback	Intermediate	Backend / PostgreSQL
-B-07	Add automated API and booking-flow tests	Intermediate	Node.js / Testing
-B-08	Improve API documentation and request payload examples	Beginner	Documentation
+B-01	Improve frontend error handling and user feedback	| Beginner |	JavaScript / UI
+B-02	Improve seat-selection UI and visual states |	Beginner |	CSS / UI
+B-03	Improve authentication form validation	| Beginner	| JavaScript / Auth
+B-04	Improve responsive design on smaller screens |	Beginner	| CSS / Responsive
+B-05	Improve real-time seat synchronization under heavy traffic |	Intermediate |	Socket.IO / Logic
+B-06	Improve booking transaction and error handling on rollback |	Intermediate |	Backend / PostgreSQL
+B-07	Add automated API and booking-flow tests |	Intermediate |	Node.js / Testing
+B-08	Improve API documentation and request payload examples |	Beginner |	Documentation
 Each bug has detailed information in the codebase to help you locate and solve the issue.
 
 Feature Ideas
